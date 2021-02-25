@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **imsonmia/imsonmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Imsonmia, Grade 8 student in Byron College, GR
+Like Minecraft  
+Learned Python and HTML
